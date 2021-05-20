@@ -12,9 +12,9 @@ For just one test word:
 python logLooker.py inputFile.txt testWord1
 ```
 
-For two test words:
+For multiple test words:
 ```python
-python logLooker.py inputFile.txt testWord1 testWord2
+python logLooker.py inputFile.txt testWord1 testWord2 ... testWordN
 ```
 
 To output to a file:
