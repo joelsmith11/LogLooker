@@ -7,6 +7,12 @@ To install, download a zip file, then extract the files into a directory of your
 ## Usage
 This script can look for an unlimited number of test words. If you would like the output to go to a file, please use output redirection
 
+For just one test word:
+```python
+python logLooker.py inputFile.txt testWord1
+```
+
+For two test words:
 ```python
 python logLooker.py inputFile.txt testWord1 testWord2
 ```
